@@ -23,4 +23,4 @@ Ensure you have the following libraries installed:
 3. Run the Python script.
 
 ```python
-python main.py
+py main.py
